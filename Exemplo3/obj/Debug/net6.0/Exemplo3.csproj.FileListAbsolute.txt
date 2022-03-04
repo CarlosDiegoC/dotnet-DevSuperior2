@@ -1,0 +1,15 @@
+C:\C#\Udemy\Seção04\Exemplo3\obj\Debug\net6.0\Exemplo3.csproj.AssemblyReference.cache
+C:\C#\Udemy\Seção04\Exemplo3\obj\Debug\net6.0\Exemplo3.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Udemy\Seção04\Exemplo3\obj\Debug\net6.0\Exemplo3.AssemblyInfoInputs.cache
+C:\C#\Udemy\Seção04\Exemplo3\obj\Debug\net6.0\Exemplo3.AssemblyInfo.cs
+C:\C#\Udemy\Seção04\Exemplo3\obj\Debug\net6.0\Exemplo3.csproj.CoreCompileInputs.cache
+C:\C#\Udemy\Seção04\Exemplo3\bin\Debug\net6.0\Exemplo3.exe
+C:\C#\Udemy\Seção04\Exemplo3\bin\Debug\net6.0\Exemplo3.deps.json
+C:\C#\Udemy\Seção04\Exemplo3\bin\Debug\net6.0\Exemplo3.runtimeconfig.json
+C:\C#\Udemy\Seção04\Exemplo3\bin\Debug\net6.0\Exemplo3.dll
+C:\C#\Udemy\Seção04\Exemplo3\bin\Debug\net6.0\ref\Exemplo3.dll
+C:\C#\Udemy\Seção04\Exemplo3\bin\Debug\net6.0\Exemplo3.pdb
+C:\C#\Udemy\Seção04\Exemplo3\obj\Debug\net6.0\Exemplo3.dll
+C:\C#\Udemy\Seção04\Exemplo3\obj\Debug\net6.0\ref\Exemplo3.dll
+C:\C#\Udemy\Seção04\Exemplo3\obj\Debug\net6.0\Exemplo3.pdb
+C:\C#\Udemy\Seção04\Exemplo3\obj\Debug\net6.0\Exemplo3.genruntimeconfig.cache
