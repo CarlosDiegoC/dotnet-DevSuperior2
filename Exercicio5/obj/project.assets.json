@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\C#\\Udemy\\Emplos e Exercícios\\Exercicio5\\Exercicio5.csproj",
+      "projectUniqueName": "C:\\C#\\Udemy\\Exemplos e Exercícios\\Exercicio5\\Exercicio5.csproj",
       "projectName": "Exercicio5",
-      "projectPath": "C:\\C#\\Udemy\\Emplos e Exercícios\\Exercicio5\\Exercicio5.csproj",
+      "projectPath": "C:\\C#\\Udemy\\Exemplos e Exercícios\\Exercicio5\\Exercicio5.csproj",
       "packagesPath": "C:\\Users\\Diego Costa\\.nuget\\packages\\",
-      "outputPath": "C:\\C#\\Udemy\\Emplos e Exercícios\\Exercicio5\\obj\\",
+      "outputPath": "C:\\C#\\Udemy\\Exemplos e Exercícios\\Exercicio5\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Diego Costa\\AppData\\Roaming\\NuGet\\NuGet.Config",

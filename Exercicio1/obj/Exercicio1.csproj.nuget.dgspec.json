@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\C#\\Udemy\\Emplos e Exercícios\\Exercicio1\\Exercicio1.csproj": {}
+    "C:\\C#\\Udemy\\Exemplos e Exercícios\\Exercicio1\\Exercicio1.csproj": {}
   },
   "projects": {
-    "C:\\C#\\Udemy\\Emplos e Exercícios\\Exercicio1\\Exercicio1.csproj": {
+    "C:\\C#\\Udemy\\Exemplos e Exercícios\\Exercicio1\\Exercicio1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\C#\\Udemy\\Emplos e Exercícios\\Exercicio1\\Exercicio1.csproj",
+        "projectUniqueName": "C:\\C#\\Udemy\\Exemplos e Exercícios\\Exercicio1\\Exercicio1.csproj",
         "projectName": "Exercicio1",
-        "projectPath": "C:\\C#\\Udemy\\Emplos e Exercícios\\Exercicio1\\Exercicio1.csproj",
+        "projectPath": "C:\\C#\\Udemy\\Exemplos e Exercícios\\Exercicio1\\Exercicio1.csproj",
         "packagesPath": "C:\\Users\\Diego Costa\\.nuget\\packages\\",
-        "outputPath": "C:\\C#\\Udemy\\Emplos e Exercícios\\Exercicio1\\obj\\",
+        "outputPath": "C:\\C#\\Udemy\\Exemplos e Exercícios\\Exercicio1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Diego Costa\\AppData\\Roaming\\NuGet\\NuGet.Config",

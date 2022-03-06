@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\C#\\Udemy\\Emplos e Exercícios\\Exemplo2\\Exemplo2.csproj": {}
+    "C:\\C#\\Udemy\\Exemplos e Exercícios\\Exemplo2\\Exemplo2.csproj": {}
   },
   "projects": {
-    "C:\\C#\\Udemy\\Emplos e Exercícios\\Exemplo2\\Exemplo2.csproj": {
+    "C:\\C#\\Udemy\\Exemplos e Exercícios\\Exemplo2\\Exemplo2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\C#\\Udemy\\Emplos e Exercícios\\Exemplo2\\Exemplo2.csproj",
+        "projectUniqueName": "C:\\C#\\Udemy\\Exemplos e Exercícios\\Exemplo2\\Exemplo2.csproj",
         "projectName": "Exemplo2",
-        "projectPath": "C:\\C#\\Udemy\\Emplos e Exercícios\\Exemplo2\\Exemplo2.csproj",
+        "projectPath": "C:\\C#\\Udemy\\Exemplos e Exercícios\\Exemplo2\\Exemplo2.csproj",
         "packagesPath": "C:\\Users\\Diego Costa\\.nuget\\packages\\",
-        "outputPath": "C:\\C#\\Udemy\\Emplos e Exercícios\\Exemplo2\\obj\\",
+        "outputPath": "C:\\C#\\Udemy\\Exemplos e Exercícios\\Exemplo2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Diego Costa\\AppData\\Roaming\\NuGet\\NuGet.Config",
