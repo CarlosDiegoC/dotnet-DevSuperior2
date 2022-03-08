@@ -67,6 +67,7 @@ namespace Exercicio7.Entities
 
             sb.Append($"Total price: ${Total().ToString("F2", CultureInfo.InvariantCulture)}");
             return sb.ToString();
+
         }
     }
 }
