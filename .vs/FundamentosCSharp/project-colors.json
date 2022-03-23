@@ -80,7 +80,22 @@
       "ProjectGuid": "6d7d0cca-1ed9-45b7-bcf3-22cee29d7894",
       "DisplayName": "Exemplo7",
       "ColorIndex": 15
+    },
+    "556d24cd-9308-4130-b7eb-3cda1b8219fc": {
+      "ProjectGuid": "556d24cd-9308-4130-b7eb-3cda1b8219fc",
+      "DisplayName": "TrabalhandoComListas",
+      "ColorIndex": 0
+    },
+    "69177c79-e77f-4cf2-ae34-31b5c09fcb9e": {
+      "ProjectGuid": "69177c79-e77f-4cf2-ae34-31b5c09fcb9e",
+      "DisplayName": "LeiaCincoNumeros",
+      "ColorIndex": 1
+    },
+    "537c6291-e467-42c5-8f89-f950e559bd03": {
+      "ProjectGuid": "537c6291-e467-42c5-8f89-f950e559bd03",
+      "DisplayName": "CalcularDiasVivo",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 0
+  "NextColorIndex": 3
 }
